@@ -6,7 +6,7 @@
  ## Connect with me
 -Email : ajnuansar@gmail.com
 
--Instagram : [instagram.com/a.j.nu](https://www.instagram.com/a.j.nu/)
+
 
 
 <!---
