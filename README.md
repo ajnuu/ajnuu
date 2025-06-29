@@ -1,10 +1,10 @@
-# Hey , I'M Ajnu!
+# Hey,I'm Ajnu.
   - Btech  computer science student who is just
-  Passionate about coding and curious about the digital world!
+  passionate about coding and curious about the digital world!
 - Exploring the realms of code and trynna become a tech wizard.
 - Currently my repositories are a blend of projects , experiments , and code snippets that reflect my learning process.
  ## Connect with me
--Email : ajnuansar@gmail.com
+
 
 
 
